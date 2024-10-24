@@ -1,0 +1,41 @@
+
+.temi{
+    /* background-color: gray; */
+    color: black!important;
+    
+}
+.cry{
+    display: flex !important;
+    justify-content: space-evenly !important;
+}
+.wura{
+    /* background-color: gray; */
+    color:black!important;
+}
+
+.click{
+    background-color: blue !important;
+    height: auto !important;
+    width:auto !important;
+}
+#pls{
+    background-color:blue !important;
+    border: none;
+    width: 100px;
+    height: 40px;
+}
+#ples{
+    background-color:blue !important;
+    border: none;
+    width: 100px;
+    height: 40px;
+    margin-left: 15px;
+}
+.clown{
+    display: flex !important;
+    justify-content: center !important;
+}
+.HOOK{
+    text-decoration: none;
+    color: white;
+}
